@@ -17,6 +17,13 @@
                                                   "size":  835857,
                                                   "updated_at":  "2026.8.3",
                                                   "catalog_version":  "0.5-2026.8.3.1"
-                                              }
+                                              },
+                       "singular_alias_rules":  {
+                                                    "version":  "2026.8.3.1",
+                                                    "path":  "common/singular_alias_rules/2026.8.3.1/singular_alias_rules.ini",
+                                                    "sha256":  "7f23e167b227d7baabd2d0a0f0ab49b06baa50a674367ccf8d7f92a820e02c2e",
+                                                    "size":  37,
+                                                    "updated_at":  "2026.8.3"
+                                                }
                    }
 }
