@@ -9,6 +9,14 @@
                                                   "size":  2900657,
                                                   "updated_at":  "2026.8.3",
                                                   "catalog_version":  "S30-2026.8.3.1"
+                                              },
+                       "poe2_affix_catalog":  {
+                                                  "version":  "2026.8.3.1",
+                                                  "path":  "poe2/affix_catalog/2026.8.3.1/affix_catalog2.obf",
+                                                  "sha256":  "0a45e5171e49bf7925df343ea4e176dd7062fe39591a94466fee5861f4fc981a",
+                                                  "size":  835857,
+                                                  "updated_at":  "2026.8.3",
+                                                  "catalog_version":  "0.5-2026.8.3.1"
                                               }
                    }
 }
