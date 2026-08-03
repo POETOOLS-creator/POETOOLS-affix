@@ -1,1 +1,14 @@
-{"schema_version":1,"updated_at":"","components":{}} 
+﻿{
+    "schema_version":  1,
+    "updated_at":  "2026.8.3",
+    "components":  {
+                       "poe1_affix_catalog":  {
+                                                  "version":  "2026.8.3.1",
+                                                  "path":  "poe1/affix_catalog/2026.8.3.1/affix_catalog1.obf",
+                                                  "sha256":  "494588c03c1dace4d92dad33e976794016cbcac9f5a8e00d748a464f806ddeea",
+                                                  "size":  2900657,
+                                                  "updated_at":  "2026.8.3",
+                                                  "catalog_version":  "S30-2026.8.3.1"
+                                              }
+                   }
+}
