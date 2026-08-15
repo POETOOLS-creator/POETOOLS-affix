@@ -1,0 +1,15 @@
+﻿{
+    "schema_version":  1,
+    "format":  "txt",
+    "updated_at":  "2026.8.15",
+    "components":  {
+                       "poe1_affix_catalog":  {
+                                                  "version":  "2026.8.15.1",
+                                                  "path":  "poe1/affix_catalog/2026.8.15.1/affix_catalog1.txt",
+                                                  "sha256":  "67831b1759484602aa3903ba3fb5d961609b745923d965b2245cd7aaec12496d",
+                                                  "size":  2903652,
+                                                  "updated_at":  "2026.8.15",
+                                                  "catalog_version":  "S30-2026.8.15.1"
+                                              }
+                   }
+}
