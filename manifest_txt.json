@@ -1,7 +1,7 @@
 ﻿{
     "schema_version":  1,
     "format":  "txt",
-    "updated_at":  "2026.8.15",
+    "updated_at":  "2026.8.26",
     "components":  {
                        "poe1_affix_catalog":  {
                                                   "version":  "2026.8.15.2",
@@ -18,6 +18,13 @@
                                                   "size":  835834,
                                                   "updated_at":  "2026.8.15",
                                                   "catalog_version":  "0.5-2026.8.15.1"
-                                              }
+                                              },
+                       "singular_alias_rules":  {
+                                                    "version":  "2026.8.26.1",
+                                                    "path":  "common/singular_alias_rules/2026.8.26.1/singular_alias_rules.ini",
+                                                    "sha256":  "2c8d0d2584d476781b683bfc8039cae946a518e0065c31419b592dfd39cb6b18",
+                                                    "size":  52,
+                                                    "updated_at":  "2026.8.26"
+                                                }
                    }
 }
