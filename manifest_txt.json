@@ -20,11 +20,11 @@
                                                   "catalog_version":  "0.5.5-2026.9.14.1"
                                               },
                        "singular_alias_rules":  {
-                                                    "version":  "2026.8.26.2",
-                                                    "path":  "common/singular_alias_rules/2026.8.26.2/singular_alias_rules.ini",
-                                                    "sha256":  "791cb60b5536a1764bf52ccf1e1efb6532ed723f2ed696ca74db34c10d5338cd",
-                                                    "size":  87,
-                                                    "updated_at":  "2026.8.26"
+                                                    "version":  "2026.9.14.1",
+                                                    "path":  "common/singular_alias_rules/2026.9.14.1/singular_alias_rules.ini",
+                                                    "sha256":  "82593a3dfd9423fc1dffd1e5132d6c226a1b5241d0df3445a23dfbbb4654c398",
+                                                    "size":  135,
+                                                    "updated_at":  "2026.9.14"
                                                 }
                    }
 }
