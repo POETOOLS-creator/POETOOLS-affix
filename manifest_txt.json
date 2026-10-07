@@ -1,7 +1,7 @@
 ﻿{
     "schema_version":  1,
     "format":  "txt",
-    "updated_at":  "2026.9.30",
+    "updated_at":  "2026.10.8",
     "components":  {
                        "poe1_affix_catalog":  {
                                                   "version":  "2026.9.11.1",
@@ -12,12 +12,12 @@
                                                   "catalog_version":  "S30-2026.9.11.1"
                                               },
                        "poe2_affix_catalog":  {
-                                                  "version":  "2026.9.30.1",
-                                                  "path":  "poe2/affix_catalog/2026.9.30.1/affix_catalog2.txt",
-                                                  "sha256":  "ee49cab8b1155423e0c53c1224684ca6d8ea2b487b41d5153314f5205c9062f6",
-                                                  "size":  836851,
-                                                  "updated_at":  "2026.9.30",
-                                                  "catalog_version":  "0.5.5-2026.9.30.1"
+                                                  "version":  "2026.10.8.1",
+                                                  "path":  "poe2/affix_catalog/2026.10.8.1/affix_catalog2.txt",
+                                                  "sha256":  "1717882801667f416a041318a6fbd0e469333e9759d4b7ac7d49e92a73b3c22b",
+                                                  "size":  838480,
+                                                  "updated_at":  "2026.10.8",
+                                                  "catalog_version":  "0.5.5-2026.10.8.1"
                                               },
                        "singular_alias_rules":  {
                                                     "version":  "2026.9.14.1",
