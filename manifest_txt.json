@@ -4,12 +4,12 @@
     "updated_at":  "2026.11.16",
     "components":  {
                        "poe1_affix_catalog":  {
-                                                  "version":  "2026.11.16.4",
-                                                  "path":  "poe1/affix_catalog/2026.11.16.4/affix_catalog1.txt",
-                                                  "sha256":  "9da67a76abcdbef7c581b2e73257b6189d4a8fc827d235804677a2ca2562a029",
+                                                  "version":  "2026.11.16.5",
+                                                  "path":  "poe1/affix_catalog/2026.11.16.5/affix_catalog1.txt",
+                                                  "sha256":  "876b9bcaa51b19fb0ef309dff95a76a8f028b4c479a957699fc0fc43a59cdbbb",
                                                   "size":  2943975,
                                                   "updated_at":  "2026.11.16",
-                                                  "catalog_version":  "S31-2026.11.16.4"
+                                                  "catalog_version":  "S31-2026.11.16.5"
                                               },
                        "poe2_affix_catalog":  {
                                                   "version":  "2026.11.16.3",
