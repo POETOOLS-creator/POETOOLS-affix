@@ -13,12 +13,13 @@
                                                   "format_version":  1
                                               },
                        "poe2_affix_catalog":  {
-                                                  "version":  "2026.11.16.3",
-                                                  "path":  "poe2/affix_catalog/2026.11.16.3/affix_catalog2.txt",
-                                                  "sha256":  "144f34dd8545dcfe17418efae658cc0c2d97dc34b6bc52b60c278eeeac9fb753",
-                                                  "size":  838828,
-                                                  "updated_at":  "2026.11.16",
-                                                  "catalog_version":  "0.5.5-2026.11.16.3"
+                                                  "version":  "2026.11.17.1",
+                                                  "path":  "poe2/affix_catalog/2026.11.17.1/affix_catalog2.txt",
+                                                  "sha256":  "c4222559578af2d519377c9d58de751eca9682d32c152a8f8085c32d8e51f7c9",
+                                                  "size":  841393,
+                                                  "updated_at":  "2026.11.17",
+                                                  "catalog_version":  "0.5.5-2026.11.17.1",
+                                                  "format_version":  1
                                               },
                        "singular_alias_rules":  {
                                                     "version":  "2026.10.23.1",
