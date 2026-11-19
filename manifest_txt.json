@@ -29,9 +29,9 @@
                                                     "updated_at":  "2026.10.23"
                                                 },
                        "item_parser_rules":  {
-                                                 "version":  "2026.11.19.3",
-                                                 "path":  "common/item_parser_rules/2026.11.19.3/item_parser_rules.json",
-                                                 "sha256":  "b04eab8dbae7106e517710761efc190427068f30b11034bae424c959ce90e017",
+                                                 "version":  "2026.11.19.4",
+                                                 "path":  "common/item_parser_rules/2026.11.19.4/item_parser_rules.json",
+                                                 "sha256":  "d7fe172c850ce3337c4cb08ce882020fa48af182a20e8e3f9a23bd3fdd3108ed",
                                                  "size":  19983,
                                                  "updated_at":  "2026.11.19",
                                                  "format_version":  1
