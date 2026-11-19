@@ -29,10 +29,10 @@
                                                     "updated_at":  "2026.10.23"
                                                 },
                        "item_parser_rules":  {
-                                                 "version":  "2026.11.19.1",
-                                                 "path":  "common/item_parser_rules/2026.11.19.1/item_parser_rules.json",
-                                                 "sha256":  "95523fccd2169e0805069533ecbf5dee9cbf9e338e9981a2e99255c1885b36ee",
-                                                 "size":  19953,
+                                                 "version":  "2026.11.19.2",
+                                                 "path":  "common/item_parser_rules/2026.11.19.2/item_parser_rules.json",
+                                                 "sha256":  "fba0b50ca56a88483a716c80864c279fa2c79d2b0be67387540ec093c7328063",
+                                                 "size":  19980,
                                                  "updated_at":  "2026.11.19",
                                                  "format_version":  1
                                              }
