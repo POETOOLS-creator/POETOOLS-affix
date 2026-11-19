@@ -1,0 +1,1041 @@
+{
+  "format_version": 1,
+  "contexts": [
+    {
+      "game": "poe1",
+      "language": 0,
+      "itemClassLabels": [
+        "物品类别:"
+      ],
+      "itemLevelLabels": [
+        "物品等级:"
+      ],
+      "rarityLabels": [
+        "稀 有 度:",
+        "稀有度:"
+      ],
+      "rarityNormalValues": [
+        "普通"
+      ],
+      "rarityMagicValues": [
+        "魔法"
+      ],
+      "rarityRareValues": [
+        "稀有"
+      ],
+      "rarityUniqueValues": [
+        "传奇"
+      ],
+      "unidentifiedTexts": [
+        "未鉴定"
+      ],
+      "prefixMarkers": [
+        "前缀"
+      ],
+      "suffixMarkers": [
+        "后缀",
+        "仅限罕见"
+      ],
+      "tierLabels": [
+        "等阶：",
+        "等级："
+      ],
+      "requiredLabels": [],
+      "strengthLabels": [
+        "力量:"
+      ],
+      "dexterityLabels": [
+        "敏捷:"
+      ],
+      "intelligenceLabels": [
+        "智慧:"
+      ],
+      "armourLabels": [
+        "护甲:"
+      ],
+      "evasionLabels": [
+        "闪避值:"
+      ],
+      "energyShieldLabels": [
+        "能量护盾:"
+      ],
+      "attrNameStrength": "力",
+      "attrNameDexterity": "敏",
+      "attrNameIntelligence": "智",
+      "currencyRarities": [
+        "通货"
+      ],
+      "stackableCurrencyClasses": [
+        "可堆叠通货"
+      ],
+      "stackSizeLabels": [
+        "堆叠数量:"
+      ],
+      "rarityNormalExactAliases": [],
+      "corruptedTexts": [
+        "已腐化",
+        "被腐化"
+      ],
+      "fracturedMarkers": [
+        "破碎的"
+      ],
+      "sectionRequiredLabels": [
+        "需求:",
+        "需求："
+      ],
+      "sectionSocketLabels": [
+        "插槽:",
+        "插槽："
+      ],
+      "ignoredShortLineSuffixes": [
+        "物品"
+      ]
+    },
+    {
+      "game": "poe1",
+      "language": 1,
+      "itemClassLabels": [
+        "物品種類:"
+      ],
+      "itemLevelLabels": [
+        "物品等級:"
+      ],
+      "rarityLabels": [
+        "稀有度:",
+        "稀 有 度:"
+      ],
+      "rarityNormalValues": [
+        "普通"
+      ],
+      "rarityMagicValues": [
+        "魔法"
+      ],
+      "rarityRareValues": [
+        "稀有"
+      ],
+      "rarityUniqueValues": [
+        "傳奇"
+      ],
+      "unidentifiedTexts": [
+        "未鑑定"
+      ],
+      "prefixMarkers": [
+        "前綴"
+      ],
+      "suffixMarkers": [
+        "後綴",
+        "稀有限定"
+      ],
+      "tierLabels": [
+        "階層：",
+        "階級："
+      ],
+      "requiredLabels": [],
+      "strengthLabels": [
+        "力量:"
+      ],
+      "dexterityLabels": [
+        "敏捷:"
+      ],
+      "intelligenceLabels": [
+        "智慧:"
+      ],
+      "armourLabels": [
+        "護甲:"
+      ],
+      "evasionLabels": [
+        "閃避值:"
+      ],
+      "energyShieldLabels": [
+        "能量護盾:"
+      ],
+      "attrNameStrength": "力",
+      "attrNameDexterity": "敏",
+      "attrNameIntelligence": "智",
+      "currencyRarities": [
+        "通貨"
+      ],
+      "stackableCurrencyClasses": [
+        "可堆疊通貨"
+      ],
+      "stackSizeLabels": [
+        "堆疊數量:"
+      ],
+      "rarityNormalExactAliases": [],
+      "corruptedTexts": [
+        "已汙染"
+      ],
+      "fracturedMarkers": [
+        "已破裂"
+      ],
+      "sectionRequiredLabels": [
+        "需求:",
+        "需求："
+      ],
+      "sectionSocketLabels": [
+        "插槽:",
+        "插槽："
+      ],
+      "ignoredShortLineSuffixes": [
+        "物品"
+      ]
+    },
+    {
+      "game": "poe1",
+      "language": 2,
+      "itemClassLabels": [
+        "Item Class:"
+      ],
+      "itemLevelLabels": [
+        "Item Level:"
+      ],
+      "rarityLabels": [
+        "Rarity:"
+      ],
+      "rarityNormalValues": [
+        "Normal"
+      ],
+      "rarityMagicValues": [
+        "Magic"
+      ],
+      "rarityRareValues": [
+        "Rare"
+      ],
+      "rarityUniqueValues": [
+        "Unique"
+      ],
+      "unidentifiedTexts": [
+        "Unidentified"
+      ],
+      "prefixMarkers": [
+        "Prefix"
+      ],
+      "suffixMarkers": [
+        "Suffix",
+        "Rare-only"
+      ],
+      "tierLabels": [
+        "Tier: ",
+        "Rank: "
+      ],
+      "requiredLabels": [],
+      "strengthLabels": [
+        "Str:"
+      ],
+      "dexterityLabels": [
+        "Dex:"
+      ],
+      "intelligenceLabels": [
+        "Int:"
+      ],
+      "armourLabels": [
+        "Armour:"
+      ],
+      "evasionLabels": [
+        "Evasion Rating:"
+      ],
+      "energyShieldLabels": [
+        "Energy Shield:"
+      ],
+      "attrNameStrength": "str",
+      "attrNameDexterity": "dex",
+      "attrNameIntelligence": "int",
+      "currencyRarities": [
+        "Currency"
+      ],
+      "stackableCurrencyClasses": [
+        "Stackable Currency"
+      ],
+      "stackSizeLabels": [
+        "Stack Size:"
+      ],
+      "rarityNormalExactAliases": [],
+      "corruptedTexts": [
+        "Corrupted"
+      ],
+      "fracturedMarkers": [
+        "Fractured"
+      ],
+      "sectionRequiredLabels": [
+        "Requirements:"
+      ],
+      "sectionSocketLabels": [
+        "Sockets:"
+      ],
+      "ignoredShortLineSuffixes": [
+        "Item"
+      ]
+    },
+    {
+      "game": "poe2",
+      "language": 0,
+      "itemClassLabels": [
+        "物品类别:"
+      ],
+      "itemLevelLabels": [
+        "物品等级:"
+      ],
+      "rarityLabels": [
+        "稀 有 度:",
+        "稀有度:"
+      ],
+      "rarityNormalValues": [
+        "普通"
+      ],
+      "rarityMagicValues": [
+        "魔法"
+      ],
+      "rarityRareValues": [
+        "稀有"
+      ],
+      "rarityUniqueValues": [
+        "传奇"
+      ],
+      "unidentifiedTexts": [
+        "未鉴定"
+      ],
+      "prefixMarkers": [
+        "前缀"
+      ],
+      "suffixMarkers": [
+        "后缀",
+        "Rare-only"
+      ],
+      "tierLabels": [
+        "等阶："
+      ],
+      "requiredLabels": [
+        "需求: "
+      ],
+      "strengthLabels": [
+        "力量"
+      ],
+      "dexterityLabels": [
+        "敏捷"
+      ],
+      "intelligenceLabels": [
+        "智慧"
+      ],
+      "armourLabels": [
+        "护甲:"
+      ],
+      "evasionLabels": [
+        "闪避值:"
+      ],
+      "energyShieldLabels": [
+        "能量护盾:"
+      ],
+      "attrNameStrength": "力",
+      "attrNameDexterity": "敏",
+      "attrNameIntelligence": "智",
+      "currencyRarities": [
+        "通货"
+      ],
+      "stackableCurrencyClasses": [
+        "可堆叠通货"
+      ],
+      "stackSizeLabels": [
+        "堆叠数量:"
+      ],
+      "rarityNormalExactAliases": [
+        "中"
+      ],
+      "corruptedTexts": [
+        "已腐化",
+        "被腐化"
+      ],
+      "fracturedMarkers": [
+        "破碎的"
+      ],
+      "sectionRequiredLabels": [
+        "需求: ",
+        "需求:",
+        "需求："
+      ],
+      "sectionSocketLabels": [
+        "插槽:",
+        "插槽："
+      ],
+      "ignoredShortLineSuffixes": [
+        "物品"
+      ]
+    },
+    {
+      "game": "poe2",
+      "language": 1,
+      "itemClassLabels": [
+        "物品種類:"
+      ],
+      "itemLevelLabels": [
+        "物品等級:"
+      ],
+      "rarityLabels": [
+        "稀有度:",
+        "稀 有 度:"
+      ],
+      "rarityNormalValues": [
+        "普通"
+      ],
+      "rarityMagicValues": [
+        "魔法"
+      ],
+      "rarityRareValues": [
+        "稀有"
+      ],
+      "rarityUniqueValues": [
+        "傳奇"
+      ],
+      "unidentifiedTexts": [
+        "未鑑定"
+      ],
+      "prefixMarkers": [
+        "前綴"
+      ],
+      "suffixMarkers": [
+        "後綴",
+        "稀有限定"
+      ],
+      "tierLabels": [
+        "階層："
+      ],
+      "requiredLabels": [
+        "需求: "
+      ],
+      "strengthLabels": [
+        "力量"
+      ],
+      "dexterityLabels": [
+        "敏捷"
+      ],
+      "intelligenceLabels": [
+        "智慧"
+      ],
+      "armourLabels": [
+        "護甲:"
+      ],
+      "evasionLabels": [
+        "閃避值:"
+      ],
+      "energyShieldLabels": [
+        "能量護盾:"
+      ],
+      "attrNameStrength": "力",
+      "attrNameDexterity": "敏",
+      "attrNameIntelligence": "智",
+      "currencyRarities": [
+        "通貨"
+      ],
+      "stackableCurrencyClasses": [
+        "可堆疊通貨"
+      ],
+      "stackSizeLabels": [
+        "堆疊數量:"
+      ],
+      "rarityNormalExactAliases": [],
+      "corruptedTexts": [
+        "已汙染"
+      ],
+      "fracturedMarkers": [
+        "已破裂"
+      ],
+      "sectionRequiredLabels": [
+        "需求: ",
+        "需求:",
+        "需求："
+      ],
+      "sectionSocketLabels": [
+        "插槽:",
+        "插槽："
+      ],
+      "ignoredShortLineSuffixes": [
+        "物品"
+      ]
+    },
+    {
+      "game": "poe2",
+      "language": 2,
+      "itemClassLabels": [
+        "Item Class:"
+      ],
+      "itemLevelLabels": [
+        "Item Level:"
+      ],
+      "rarityLabels": [
+        "Rarity:"
+      ],
+      "rarityNormalValues": [
+        "Normal"
+      ],
+      "rarityMagicValues": [
+        "Magic"
+      ],
+      "rarityRareValues": [
+        "Rare"
+      ],
+      "rarityUniqueValues": [
+        "Unique"
+      ],
+      "unidentifiedTexts": [
+        "Unidentified"
+      ],
+      "prefixMarkers": [
+        "Prefix"
+      ],
+      "suffixMarkers": [
+        "Suffix",
+        "Rare-only"
+      ],
+      "tierLabels": [
+        "Tier: "
+      ],
+      "requiredLabels": [
+        "Requires: "
+      ],
+      "strengthLabels": [
+        "Str"
+      ],
+      "dexterityLabels": [
+        "Dex"
+      ],
+      "intelligenceLabels": [
+        "Int"
+      ],
+      "armourLabels": [
+        "Armour:"
+      ],
+      "evasionLabels": [
+        "Evasion Rating:"
+      ],
+      "energyShieldLabels": [
+        "Energy Shield:"
+      ],
+      "attrNameStrength": "str",
+      "attrNameDexterity": "dex",
+      "attrNameIntelligence": "int",
+      "currencyRarities": [
+        "Currency"
+      ],
+      "stackableCurrencyClasses": [
+        "Stackable Currency"
+      ],
+      "stackSizeLabels": [
+        "Stack Size:"
+      ],
+      "rarityNormalExactAliases": [],
+      "corruptedTexts": [
+        "Corrupted"
+      ],
+      "fracturedMarkers": [
+        "Fractured"
+      ],
+      "sectionRequiredLabels": [
+        "Requires: ",
+        "Requirements:"
+      ],
+      "sectionSocketLabels": [
+        "Sockets:"
+      ],
+      "ignoredShortLineSuffixes": [
+        "Item"
+      ]
+    }
+  ],
+  "specials": [
+    {
+      "allowMapQualityNail": true,
+      "game": "poe1",
+      "itemNames": [
+        [
+          "地图"
+        ],
+        [
+          "地圖"
+        ],
+        [
+          "Maps"
+        ]
+      ],
+      "key": "poe1_map",
+      "kind": "map",
+      "stats": [
+        {
+          "displayLabels": [
+            "数量",
+            "數量",
+            "Quantity"
+          ],
+          "parseLabels": [
+            [
+              "异界掉落"
+            ],
+            [
+              "輿圖掉落物"
+            ],
+            [
+              "Atlas Drops"
+            ]
+          ],
+          "slot": 0
+        },
+        {
+          "displayLabels": [
+            "稀有",
+            "稀有",
+            "Rarity"
+          ],
+          "parseLabels": [
+            [
+              "物品稀有度"
+            ],
+            [
+              "物品稀有度"
+            ],
+            [
+              "Item Rarity"
+            ]
+          ],
+          "slot": 1
+        },
+        {
+          "displayLabels": [
+            "怪群",
+            "怪群",
+            "Packsize"
+          ],
+          "parseLabels": [
+            [
+              "怪物群大小"
+            ],
+            [
+              "怪物群大小"
+            ],
+            [
+              "Monster Pack Size"
+            ]
+          ],
+          "slot": 2
+        },
+        {
+          "displayLabels": [
+            "地图",
+            "地圖",
+            "Maps"
+          ],
+          "parseLabels": [
+            [
+              "更多地图"
+            ],
+            [
+              "更多地圖"
+            ],
+            [
+              "More Maps"
+            ]
+          ],
+          "slot": 3
+        },
+        {
+          "displayLabels": [
+            "甲虫",
+            "綢帶",
+            "Threads"
+          ],
+          "parseLabels": [
+            [
+              "更多丝线"
+            ],
+            [
+              "更多 綢帶",
+              "更多綢帶"
+            ],
+            [
+              "More Threads"
+            ]
+          ],
+          "slot": 4
+        },
+        {
+          "displayLabels": [
+            "通货",
+            "通貨",
+            "Currency"
+          ],
+          "parseLabels": [
+            [
+              "更多通货"
+            ],
+            [
+              "更多通貨"
+            ],
+            [
+              "More Currency"
+            ]
+          ],
+          "slot": 5
+        }
+      ]
+    },
+    {
+      "allowMapQualityNail": false,
+      "game": "poe1",
+      "itemNames": [
+        [
+          "蓝图"
+        ],
+        [
+          "藍圖"
+        ],
+        [
+          "Blueprints"
+        ]
+      ],
+      "key": "poe1_blueprint",
+      "kind": "blueprint",
+      "stats": [
+        {
+          "displayLabels": [
+            "数量",
+            "數量",
+            "Quantity"
+          ],
+          "parseLabels": [
+            [
+              "物品数量"
+            ],
+            [
+              "物品數量"
+            ],
+            [
+              "Item Quantity"
+            ]
+          ],
+          "slot": 0
+        },
+        {
+          "displayLabels": [
+            "稀有",
+            "稀有",
+            "Rarity"
+          ],
+          "parseLabels": [
+            [
+              "物品稀有度"
+            ],
+            [
+              "物品稀有度"
+            ],
+            [
+              "Item Rarity"
+            ]
+          ],
+          "slot": 1
+        },
+        {
+          "displayLabels": [
+            "警报",
+            "警報",
+            "Alert"
+          ],
+          "parseLabels": [
+            [
+              "警报等级衰减"
+            ],
+            [
+              "警戒等級減免"
+            ],
+            [
+              "Alert Level Reduction"
+            ]
+          ],
+          "slot": 6
+        },
+        {
+          "displayLabels": [
+            "时间",
+            "時間",
+            "Time"
+          ],
+          "parseLabels": [
+            [
+              "封锁前的时间"
+            ],
+            [
+              "封鎖前的時間"
+            ],
+            [
+              "Time Before Lockdown"
+            ]
+          ],
+          "slot": 7
+        },
+        {
+          "displayLabels": [
+            "援军",
+            "援軍",
+            "Reinforcements"
+          ],
+          "parseLabels": [
+            [
+              "最大存活援军"
+            ],
+            [
+              "最大生存支援"
+            ],
+            [
+              "Maximum Alive Reinforcements"
+            ]
+          ],
+          "slot": 8
+        }
+      ]
+    },
+    {
+      "allowMapQualityNail": false,
+      "game": "poe1",
+      "itemNames": [
+        [
+          "海图"
+        ],
+        [
+          "海圖"
+        ],
+        [
+          "Chart"
+        ]
+      ],
+      "key": "poe1_chart",
+      "kind": "map",
+      "stats": [
+        {
+          "displayLabels": [
+            "数量",
+            "數量",
+            "Quantity"
+          ],
+          "parseLabels": [
+            [
+              "物品数量"
+            ],
+            [
+              "物品數量"
+            ],
+            [
+              "Item Quantity"
+            ]
+          ],
+          "slot": 0
+        },
+        {
+          "displayLabels": [
+            "稀有",
+            "稀有",
+            "Rarity"
+          ],
+          "parseLabels": [
+            [
+              "物品稀有度"
+            ],
+            [
+              "物品稀有度"
+            ],
+            [
+              "Item Rarity"
+            ]
+          ],
+          "slot": 1
+        },
+        {
+          "displayLabels": [
+            "怪群",
+            "怪群",
+            "Packsize"
+          ],
+          "parseLabels": [
+            [
+              "怪物群大小"
+            ],
+            [
+              "怪物群大小"
+            ],
+            [
+              "Monster Pack Size"
+            ]
+          ],
+          "slot": 2
+        },
+        {
+          "displayLabels": [
+            "黄金",
+            "金幣",
+            "Gold"
+          ],
+          "parseLabels": [
+            [
+              "获得黄金"
+            ],
+            [
+              "已找到金幣"
+            ],
+            [
+              "Gold Found"
+            ]
+          ],
+          "slot": 3
+        },
+        {
+          "displayLabels": [
+            "硫磺",
+            "硫酸",
+            "Sulphur"
+          ],
+          "parseLabels": [
+            [
+              "亡者硫磺"
+            ],
+            [
+              "亡者硫酸"
+            ],
+            [
+              "Dead Man's Sulphur"
+            ]
+          ],
+          "slot": 4
+        }
+      ]
+    },
+    {
+      "allowMapQualityNail": false,
+      "game": "poe2",
+      "itemNames": [
+        [
+          "引路石"
+        ],
+        [
+          "換界石"
+        ],
+        [
+          "Waystones"
+        ]
+      ],
+      "key": "poe2_waystone",
+      "kind": "waystone",
+      "stats": [
+        {
+          "displayLabels": [
+            "复活次数",
+            "復活次數",
+            "Revives"
+          ],
+          "parseLabels": [
+            [
+              "可用的复活数"
+            ],
+            [
+              "可用的復活數"
+            ],
+            [
+              "Revives Available"
+            ]
+          ],
+          "slot": 5,
+          "fillMissing": false
+        },
+        {
+          "displayLabels": [
+            "稀有",
+            "稀有",
+            "Rarity"
+          ],
+          "parseLabels": [
+            [
+              "物品稀有度"
+            ],
+            [
+              "物品稀有度"
+            ],
+            [
+              "Item Rarity"
+            ]
+          ],
+          "slot": 0
+        },
+        {
+          "displayLabels": [
+            "怪群",
+            "怪群",
+            "Packsize"
+          ],
+          "parseLabels": [
+            [
+              "怪物群规模"
+            ],
+            [
+              "怪群大小"
+            ],
+            [
+              "Pack Size"
+            ]
+          ],
+          "slot": 1
+        },
+        {
+          "displayLabels": [
+            "怪稀",
+            "怪稀",
+            "Monster Rarity"
+          ],
+          "parseLabels": [
+            [
+              "怪物稀有度"
+            ],
+            [
+              "怪物稀有度"
+            ],
+            [
+              "Monster Rarity"
+            ]
+          ],
+          "slot": 2
+        },
+        {
+          "displayLabels": [
+            "效能",
+            "效能",
+            "Potency"
+          ],
+          "parseLabels": [
+            [
+              "怪物效能"
+            ],
+            [
+              "怪物效能"
+            ],
+            [
+              "Monster Effectiveness"
+            ]
+          ],
+          "slot": 3
+        },
+        {
+          "displayLabels": [
+            "引路石",
+            "換界石",
+            "Waystones"
+          ],
+          "parseLabels": [
+            [
+              "引路石掉落几率"
+            ],
+            [
+              "換界石掉落機率"
+            ],
+            [
+              "Waystone Drop Chance"
+            ]
+          ],
+          "slot": 4
+        }
+      ]
+    }
+  ]
+}
